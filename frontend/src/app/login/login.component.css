@@ -1,0 +1,13 @@
+
+
+.form-container{
+    border: 0px solid white;padding: 50px 60px;margin-top: 20vh;right: 20vh;
+    webkit-box-shadow: 2px 4px 5px 0px rgba(0,0,0,0.75);
+   -moz-box-shadow: 2px 4px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 2px 4px 5px 0px rgba(0,0,0,0.75);
+
+}
+.form-container a{
+    color: black;
+}
+
